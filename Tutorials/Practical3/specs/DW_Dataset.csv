@@ -1,0 +1,9 @@
+ Emp ID, Name,Year of Birth, Gender, Status, Salary
+100, Smith ,1964, M , Director , € 10000
+125, Jones,1977, F , Technician ,€ 1800
+167, Davis,1985, F , Senior Technician , 
+200, O'Bien ,1997, M , Technician , € 1600
+205, Edward ,1995, M , Technician , € 1700
+216, Evans ,1995, F , Technician , € 1700
+220, Moore ,1996, F , Senior Technician , € 3300
+301, Rogers ,1965, M , Deputy Director , € 8000

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.6)  4 NOV 2021 10:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.7.6)  4 NOV 2021 10:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**DataMining-Tutorial2-ARYAN-14395076.tex
-(./DataMining-Tutorial2-ARYAN-14395076.tex
+**DataMining-Tutorial2_F-ARYAN-14395076.tex
+(./DataMining-Tutorial2_F-ARYAN-14395076.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrreprt.cls
@@ -520,8 +520,8 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box55
 )
-(./DataMining-Tutorial2-ARYAN-14395076.aux)
-\openout1 = `DataMining-Tutorial2-ARYAN-14395076.aux'.
+(./DataMining-Tutorial2_F-ARYAN-14395076.aux)
+\openout1 = `DataMining-Tutorial2_F-ARYAN-14395076.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
 LaTeX Font Info:    ... okay on input line 52.
@@ -601,10 +601,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 52.
 LaTeX Info: Redefining \pageref on input line 52.
 LaTeX Info: Redefining \nameref on input line 52.
- (./DataMining-Tutorial2-ARYAN-14395076.out)
-(./DataMining-Tutorial2-ARYAN-14395076.out)
+ (./DataMining-Tutorial2_F-ARYAN-14395076.out)
+(./DataMining-Tutorial2_F-ARYAN-14395076.out)
 \@outlinefile=\write3
-\openout3 = `DataMining-Tutorial2-ARYAN-14395076.out'.
+\openout3 = `DataMining-Tutorial2_F-ARYAN-14395076.out'.
 
 Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           Using `bookmark' together with `hyperref' is recommended,
@@ -635,7 +635,7 @@ LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-(./DataMining-Tutorial2-ARYAN-14395076.toc
+(./DataMining-Tutorial2_F-ARYAN-14395076.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -644,7 +644,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
 )
 \tf@toc=\write4
-\openout4 = `DataMining-Tutorial2-ARYAN-14395076.toc'.
+\openout4 = `DataMining-Tutorial2_F-ARYAN-14395076.toc'.
 
  [2
 
@@ -665,85 +665,100 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--83
+
+ []
+
 [3
+
+]
+chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--119
+
+ []
+
+[4
+
+] [5]
+chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+
+ []
+
+[6
+
+]
+<Q3P6_Barplot.png, id=87, 433.62pt x 289.08pt>
+File: Q3P6_Barplot.png Graphic file (type png)
+<use Q3P6_Barplot.png>
+Package pdftex.def Info: Q3P6_Barplot.png  used on input line 180.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+ [7 <./Q3P6_Barplot.png>]
+chapter 4.
+[8
+
+]
+chapter 5.
+[9
 
 ]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     81.
+(LaTeX3)     237.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     81.
+(LaTeX3)     237.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     81.
+(LaTeX3)     237.
 
- (./DataMining-Tutorial2-ARYAN-14395076.aux)
-Package rerunfilecheck Info: File `DataMining-Tutorial2-ARYAN-14395076.out' has
- not changed.
+ (./DataMining-Tutorial2_F-ARYAN-14395076.aux)
+Package rerunfilecheck Info: File `DataMining-Tutorial2_F-ARYAN-14395076.out' h
+as not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14714 strings out of 478994
- 244643 string characters out of 5858185
- 711257 words of memory out of 5000000
- 31983 multiletter control sequences out of 15000+600000
- 412366 words of font info for 44 fonts, out of 8000000 for 9000
+ 14780 strings out of 478994
+ 245202 string characters out of 5858185
+ 713265 words of memory out of 5000000
+ 32005 multiletter control sequences out of 15000+600000
+ 412707 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,7n,116p,10630b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.5.2} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.1.2} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
-usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></us
-r/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/
-local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/lo
-cal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/
-texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on DataMining-Tutorial2-ARYAN-14395076.pdf (3 pages, 92082 bytes
-).
+ 111i,7n,116p,10632b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
+Output written on DataMining-Tutorial2_F-ARYAN-14395076.pdf (9 pages, 142187 by
+tes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 209 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

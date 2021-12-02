@@ -4,4 +4,4 @@ https://www.geeksforgeeks.org/ml-frequent-pattern-growth-algorithm/
     1. Key note: In building tree, need to consider support of ALL nodes underneath that node (across all sub-branches) vs. Min support.
 2. Information Gain formula and all related -> Should be memorised for the exam -> NEVER BEEN ON AN EXAM!!!
     1. I(p,n)=-(p/p+n)log(p/p+n) - (n/p+n)log(n/n+p)
-    2. 
+3. 
